@@ -1,0 +1,27 @@
+header {
+    background: #E5E5E5;
+    text-align: center;        
+}
+
+h1, h2 {
+    background:  #C4C4C4;
+    color: #005677;
+    letter-spacing: 0.5em;
+}
+
+
+
+footer {
+   background: #005677;
+   color: #FFFFFF;
+text-align: center;
+}
+
+.datosPersonales {
+    font-style: italic;
+    font-weight: bold;
+}
+dt {
+
+    font-weight: bold;
+}
